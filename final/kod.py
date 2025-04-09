@@ -3,7 +3,7 @@ import random
 import time
 from apscheduler.schedulers.background import BackgroundScheduler
 
-TOKEN = "7885782864:AAGfTvOlKb05N1uRzNklIgohrKxA3ixtlYs"
+TOKEN = ""
 bot = telebot.TeleBot(TOKEN)
 
 ECO_TIPS = [
